@@ -188,9 +188,6 @@ class KaTeX {
 
 	public function katex_enqueue_scripts() {
 
-		wp_deregister_script('jquery');
-		wp_enqueue_script( 'jQuery-CDN', '//cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js', array(), '1.12.4', true );
-
 		wp_enqueue_style( 'Katex', '//cdn.jsdelivr.net/npm/katex/dist/katex.min.css', array(), '0.10.0-beta', 'all' );
 		wp_enqueue_script( 'Katex', '//cdn.jsdelivr.net/npm/katex/dist/katex.min.js', array(), '0.10.0-beta', true );
 

@@ -17,8 +17,6 @@ class Mermaid {
 	}
 
 	public function mermaid_enqueue_scripts() {
-		wp_deregister_script('jquery');
-		wp_enqueue_script( 'jQuery-CDN', '//cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js', array(), '1.12.4', true );
 
 		wp_enqueue_script( 'Mermaid',  '//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js', array(), '8.0.0-rc.8', true );
 	}
