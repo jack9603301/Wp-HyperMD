@@ -1,9 +1,9 @@
 # Wp HyperMD
 
-[![GitHub issues](https://img.shields.io/github/issues/JaxsonWang/WP-HyperMD.svg)](https://github.com/JaxsonWang/WP-HyperMD/issues)
-[![GitHub forks](https://img.shields.io/github/forks/JaxsonWang/WP-HyperMD.svg)](https://github.com/JaxsonWang/WP-HyperMD/network)
-[![GitHub stars](https://img.shields.io/github/stars/JaxsonWang/WP-HyperMD.svg)](https://github.com/JaxsonWang/WP-HyperMD/stargazers)
-[![GitHub license](https://img.shields.io/github/license/JaxsonWang/WP-HyperMD.svg)](https://github.com/JaxsonWang/WP-HyperMD/blob/V5.0/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/jack9603301/Wp-Next-MD.Editor.svg)](https://github.com/JaxsonWang/Wp-Next-MD.Editor/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jack9603301/Wp-Next-MD.Editor.svg)](https://github.com/JaxsonWang/Wp-Next-MD.Editor/network)
+[![GitHub stars](https://img.shields.io/github/stars/jack9603301/Wp-Next-MD.Editor.svg)](https://github.com/JaxsonWang/Wp-Next-MD.Editor/stargazers)
+[![GitHub license](https://img.shields.io/github/license/jack9603301/Wp-Next-MD.Editor.svg)](https://github.com/JaxsonWang/Wp-Next-MD.Editor/blob/V5.0/LICENSE)
 [![Latest Unstable Version](https://poser.pugx.org/jaxsonwang/wp-hypermd/v/unstable)](https://packagist.org/packages/jaxsonwang/wp-hypermd)
 [![composer.lock](https://poser.pugx.org/jaxsonwang/wp-hypermd/composerlock)](https://packagist.org/packages/jaxsonwang/wp-hypermd)
 
@@ -26,6 +26,8 @@ The plugin uses the Markdown module from WordPress [Jetpack](http://jetpack.me) 
 WordPress Plugins [Download](https://wordpress.org/plugins/wp-hypermd/)
 
 WordPress 插件库[下载](https://wordpress.org/plugins/wp-hypermd/)
+
+注意：原作者停止更新，这是一个原插件WP-HyperMD的分支实现，继续维护。
 
 ### 特征 Feature
 
